@@ -4,7 +4,7 @@ const path = require('path');
 const ROOT_DIR = path.resolve(__dirname, '..');
 const HTML_FILES = [
   'index.html',
-  'alfmir.ai.html',
+  'alfmi.ai.html',
   'lochner-apparel.html',
 ];
 const TIMESTAMP_COMMENT_PATTERN = /<!-- Unix time \(ms\): \d+ -->/;
