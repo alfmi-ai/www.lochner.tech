@@ -7,9 +7,9 @@
   "manifestPath": "ipfs-version.json",
   "gitRevision": "7e37500f32116db44cdf5342f05606151ad324f5",
   "gitRevisionDirty": false,
-  "gitRepositoryUrl": "https://github.com/alfmir-ai/www.lochner.tech",
-  "gitCommitUrl": "https://github.com/alfmir-ai/www.lochner.tech/commit/7e37500f32116db44cdf5342f05606151ad324f5",
-  "gitTreeUrl": "https://github.com/alfmir-ai/www.lochner.tech/tree/7e37500f32116db44cdf5342f05606151ad324f5",
+  "gitRepositoryUrl": "https://github.com/alfmi-ai/www.lochner.tech",
+  "gitCommitUrl": "https://github.com/alfmi-ai/www.lochner.tech/commit/7e37500f32116db44cdf5342f05606151ad324f5",
+  "gitTreeUrl": "https://github.com/alfmi-ai/www.lochner.tech/tree/7e37500f32116db44cdf5342f05606151ad324f5",
   "includeGithubVerification": true,
   "contentSha256": "f474efb928e3573de5eb31791889c51686459d12f6a96baeb47c64bac3cb97dc",
   "previousContentSha256": [
@@ -28,7 +28,7 @@
       "sha256": "a222dcf374f28be7a568d5f25ea51b85b434ed234540faef8578df4b0e216234"
     },
     {
-      "path": "alfmir.ai.html",
+      "path": "alfmi.ai.html",
       "bytes": 88979,
       "sha256": "b3e51a8d97fdd9f4659468bd0afc8893df6a5461dbf5e2f3a847486b0e2266f8"
     },
@@ -43,32 +43,32 @@
       "sha256": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280"
     },
     {
-      "path": "images/alfmir/1.png",
+      "path": "images/alfmi/1.png",
       "bytes": 355971,
       "sha256": "abb9bb1de7fe9642d5cf30ad8ad50929577fc798aaf5ac407c6f2de5a7afb1e0"
     },
     {
-      "path": "images/alfmir/2.png",
+      "path": "images/alfmi/2.png",
       "bytes": 302662,
       "sha256": "2603e832e5bc9b4deeb00d84a145292416d228fe0ff328d3b893004d6ae6f340"
     },
     {
-      "path": "images/alfmir/3.png",
+      "path": "images/alfmi/3.png",
       "bytes": 460617,
       "sha256": "82a5fdcb318c4f723a82a72eceec73899becf884b00db8c3f8812b6768d15ff4"
     },
     {
-      "path": "images/alfmir/4.png",
+      "path": "images/alfmi/4.png",
       "bytes": 104773,
       "sha256": "00a03d06e456088bda966da86b0a268e85417b5330594820d6c4f6016f1ed6fc"
     },
     {
-      "path": "images/alfmir/5.png",
+      "path": "images/alfmi/5.png",
       "bytes": 362558,
       "sha256": "80c822dd00517fa4f846ce887e88525fd329d30edb166d9122e9bf39ee32c89e"
     },
     {
-      "path": "images/alfmir/6.png",
+      "path": "images/alfmi/6.png",
       "bytes": 404682,
       "sha256": "c54977d2331e3eb58d7335f82d122c0a1464a99290e76caf05fddc1f70e8c472"
     },
