@@ -5,16 +5,16 @@
   "ipnsId": "k2k4r8jw4dtnalpkgklrqeflhsgderg6a8wn5lix7bww1yjemm0rx7ye",
   "source": "https://lochner.tech",
   "manifestPath": "ipfs-version.json",
-  "gitRevision": "2a2b88b7e39433fd17a6f5c7a34d94b44352c83c",
+  "gitRevision": "a971ff37f096529cdfb436cc8d78b8998659e27d",
   "gitRevisionDirty": false,
   "gitRepositoryUrl": "https://github.com/alfmi-ai/www.lochner.tech",
-  "gitCommitUrl": "https://github.com/alfmi-ai/www.lochner.tech/commit/2a2b88b7e39433fd17a6f5c7a34d94b44352c83c",
-  "gitTreeUrl": "https://github.com/alfmi-ai/www.lochner.tech/tree/2a2b88b7e39433fd17a6f5c7a34d94b44352c83c",
+  "gitCommitUrl": "https://github.com/alfmi-ai/www.lochner.tech/commit/a971ff37f096529cdfb436cc8d78b8998659e27d",
+  "gitTreeUrl": "https://github.com/alfmi-ai/www.lochner.tech/tree/a971ff37f096529cdfb436cc8d78b8998659e27d",
   "includeGithubVerification": true,
-  "contentSha256": "ad3da2e0b80cf98b6b1e05a81c017efef7c2c7950213e240b3390071037b5a28",
+  "contentSha256": "0ff3bf3e48a10a0c18da02107768d6ca181497e1bb5a43c1354d25b5c531e773",
   "previousContentSha256": [
-    "ccde1d4a4c86ae514ee9fdef6e31393088ed49a9f93540a096b8181184ea957e",
-    "10ea229d22c13d074d46465603b48011df04a28f294682b9044fccb388eb0a5f"
+    "10ea229d22c13d074d46465603b48011df04a28f294682b9044fccb388eb0a5f",
+    "ad3da2e0b80cf98b6b1e05a81c017efef7c2c7950213e240b3390071037b5a28"
   ],
   "files": [
     {
@@ -29,8 +29,8 @@
     },
     {
       "path": "alfmi.ai.html",
-      "bytes": 88852,
-      "sha256": "7b069f09a865d14661a69ddb7a4ad9a8b40bf9a3abe79a4ad52c068dd9db4860"
+      "bytes": 89340,
+      "sha256": "d77c221b799096d64e77c47b1a8c2d1983c36e9085d4101d0305b6c41ed5d4c4"
     },
     {
       "path": "assets/fonts/LochnerBrandSans-Bold.ttf",
@@ -85,12 +85,12 @@
     {
       "path": "index.html",
       "bytes": 88048,
-      "sha256": "5a2de75ee8816fd487fc783653c2dc18d8af6929e11e5c9a36b86a0f17011a13"
+      "sha256": "bbeb7783604464c56efbb96fcae5288942993468cb7805a89695e53f335f3702"
     },
     {
       "path": "lochner-apparel.html",
       "bytes": 85273,
-      "sha256": "5efc8e042da32894cc3aa0755101652dbd97660ad32c1ebc1fd12db288c44f5a"
+      "sha256": "17af6ff50de522e8c8a0100a6da2897cbbc011cebd576eb6c19cdf067ae5e0c5"
     }
   ]
 }
