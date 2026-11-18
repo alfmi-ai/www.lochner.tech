@@ -5,16 +5,16 @@
   "ipnsId": "k2k4r8jw4dtnalpkgklrqeflhsgderg6a8wn5lix7bww1yjemm0rx7ye",
   "source": "https://lochner.tech",
   "manifestPath": "ipfs-version.json",
-  "gitRevision": "b396604b41e9ff8952cdf1312a0277faa953bcb4",
+  "gitRevision": "2fc1b423e7cebb4b7463b0b40367043fda54c04d",
   "gitRevisionDirty": false,
   "gitRepositoryUrl": "https://github.com/alfmi-ai/www.lochner.tech",
-  "gitCommitUrl": "https://github.com/alfmi-ai/www.lochner.tech/commit/b396604b41e9ff8952cdf1312a0277faa953bcb4",
-  "gitTreeUrl": "https://github.com/alfmi-ai/www.lochner.tech/tree/b396604b41e9ff8952cdf1312a0277faa953bcb4",
+  "gitCommitUrl": "https://github.com/alfmi-ai/www.lochner.tech/commit/2fc1b423e7cebb4b7463b0b40367043fda54c04d",
+  "gitTreeUrl": "https://github.com/alfmi-ai/www.lochner.tech/tree/2fc1b423e7cebb4b7463b0b40367043fda54c04d",
   "includeGithubVerification": true,
-  "contentSha256": "a12e332393472851901b685a38f4b0e2cbd8ed33fd531510971e926439153bfb",
+  "contentSha256": "c0c2aed185f87894c73a17ba959feaaf2f0732f35d9a186a7d12b01d6974c953",
   "previousContentSha256": [
-    "255729e365a6fdf6904166ae7ebf4e6993c9ea29ca08e52734051ad376385d55",
-    "f474efb928e3573de5eb31791889c51686459d12f6a96baeb47c64bac3cb97dc"
+    "f474efb928e3573de5eb31791889c51686459d12f6a96baeb47c64bac3cb97dc",
+    "a12e332393472851901b685a38f4b0e2cbd8ed33fd531510971e926439153bfb"
   ],
   "files": [
     {
@@ -30,7 +30,7 @@
     {
       "path": "alfmi.ai.html",
       "bytes": 88942,
-      "sha256": "667aa7646dd3955354d9812397a6a52bc4b2607215b766bfe4dcceedd6244617"
+      "sha256": "0310fbce213ca4db1d8fce0edcfb3848ac662efd5021f283a80671dd0aae65f3"
     },
     {
       "path": "assets/fonts/LochnerBrandSans-Bold.ttf",
@@ -85,12 +85,12 @@
     {
       "path": "index.html",
       "bytes": 88060,
-      "sha256": "b817374201a2c44595f58b43aafbaec2a831ee9b9b43d7113b16b10045c85f5f"
+      "sha256": "20f22aa460a88298a80505428847eccd2280d296c9e90554f83d0b2bb82ebb8f"
     },
     {
       "path": "lochner-apparel.html",
       "bytes": 85285,
-      "sha256": "59b7773cf4e1f13236c7b14274bb563a31b75cebe346c02c0e0a0bcdb5c219cb"
+      "sha256": "a28e9eeca8d16dd65138c4d4a06d6fc3689f6603cbc452adb060a99bfbabff7a"
     }
   ]
 }
