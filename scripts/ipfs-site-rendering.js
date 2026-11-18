@@ -39,7 +39,7 @@ const IPFS_SHARED_HEADER_TEMPLATE = `
           </button>
           <span class="cta-dropdown-tooltip" id="bluesky-account-tip" role="tooltip" hidden>Click one of the Bluesky accounts below.</span>
           <a href="https://bsky.app/profile/news.lochner.tech" target="_blank" rel="noopener">Lochner Tech News</a>
-          <a href="https://bsky.app/profile/alfmi-ai.bsky.social" target="_blank" rel="noopener">Alfmi.ai</a>
+          <a href="https://bsky.app/profile/alfmi.ai" target="_blank" rel="noopener">Alfmi.ai</a>
           <!-- <a href="https://bsky.app/profile/lochner-apparel.bsky.social" target="_blank" rel="noopener">Lochner Apparel</a> -->
         </div>
       </details>
