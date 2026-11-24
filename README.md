@@ -1,6 +1,6 @@
 This code is unlicensed and may not be used for commercial purposes. You may use it as a technical reference. 
 
-Copyright (c) 2022-2026 Nicholas Jean Lochner, a/k/a Nichole Lochner
+Copyright (c) 2022-2026 Nicholas Jean Lochner, a/k/a Nicholas Lochner
 
 # lochner.tech static site host
 
