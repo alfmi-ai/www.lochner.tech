@@ -96,6 +96,40 @@ sudo nginx -t && sudo systemctl reload nginx
 this directory is the intended target state; reconcile any formatting changes
 back into the repo after running it.
 
+### If certbot adds the name to `default`
+
+`certbot --nginx` installs the certificate into the server block it finds for
+the name. If `news.lochner.tech` is not already present in the live
+`lochner.tech` block, certbot can add a new `server` block to
+`sites-available/default` instead. Because `sites-enabled` loads
+alphabetically, `default` can win the duplicate `server_name` and serve the
+wrong content.
+
+Apply `sites-available/lochner.tech` from this repository first, then remove
+the certbot-generated `news.lochner.tech` server block from `default` (or
+disable `default` if it is only the stock welcome page):
+
+```bash
+sudo cp /etc/nginx/sites-available/default "/root/default.bak.$(date +%s)"
+sudo grep -n "news.lochner.tech" /etc/nginx/sites-available/default
+# delete the server block(s) that contain that server_name, then:
+sudo nginx -t && sudo systemctl reload nginx
+```
+
+### If nginx will not start after certbot
+
+`bind() ... Address already in use` right after a certbot run means certbot
+started its own nginx master and left it running while systemd still considers
+the unit stopped. Stop the orphan and start through systemd:
+
+```bash
+sudo nginx -s stop
+# if the process remains:
+sudo pkill -9 nginx
+sudo systemctl start nginx
+sudo systemctl status nginx --no-pager
+```
+
 ### Verify
 
 ```bash
