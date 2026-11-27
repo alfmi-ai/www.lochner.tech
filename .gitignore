@@ -3,3 +3,10 @@ node_modules/
 .patchfiles_ignore
 
 dist-ipfs/
+
+# Deployment secrets must never be committed
+deploy/letsencrypt/live/
+deploy/letsencrypt/archive/
+deploy/ipfs/keystore/
+deploy/**/privkey.pem
+deploy/**/swarm.key
